@@ -29,7 +29,7 @@ sites/simpletest
 *.jar
 *.rar
 *.tar
-*.zip
+
 *.tgz
 
 # Logs and databases #
@@ -56,4 +56,3 @@ Thumbs.db
 
 # Things in the core directory that Drupal 8 commits in the repository.
 !core/**/*.gz
-
